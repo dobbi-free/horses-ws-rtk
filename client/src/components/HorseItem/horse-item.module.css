@@ -1,0 +1,20 @@
+
+.horse {
+    height: 70px;
+    border-bottom: 1px solid;
+    width: 100%;
+    position: relative;
+}
+
+.horse__item {
+    position: absolute;
+    text-align: center;
+}
+
+.horse__name {
+    text-align: center;
+}
+
+.horse__img {
+    width: 20px;
+}
